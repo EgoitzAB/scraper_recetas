@@ -1,6 +1,6 @@
 # Scraper de Recetas
 
-Este proyecto es un **scraper de recetas** diseñado para extraer información de recetas de un sitio web específico y poblar la base de datos en desarrollo de mi página web de recetas, [Recetas para Encantar](https://recetasparaencantar.com). El objetivo es automatizar el proceso de recopilación de recetas, incluyendo sus ingredientes, pasos de preparación y las imágenes correspondientes.
+Este proyecto es un **scraper de recetas** diseñado para extraer información de recetas de un sitio web específico y poblar la base de datos en desarrollo de mi página web de recetas, [El Recetario de Patxi](https://recetaspatxi.es). El objetivo es automatizar el proceso de recopilación de recetas, incluyendo sus ingredientes, pasos de preparación y las imágenes correspondientes.
 
 ## Descripción
 
