@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entorno virtual
+venv/
+ENV/
+env/
+.env
+
+# Archivos de bases de datos
+*.sqlite3
+*.db
+
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Archivos JSON
+*.json
+
+# Carpeta de imágenes
+imagenes/
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Otros archivos generados
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
